@@ -22,6 +22,8 @@ An educational machine learning project for transaction risk analysis.
 
 Create a virtual environment and install dependencies:
 
+Powershell:
+
 ```bash
 python -m venv .venv
 ```
